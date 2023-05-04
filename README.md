@@ -1,6 +1,6 @@
-+Algoritmos y Estructura de Datos
-+Curso: K1051
-+Cursada: 2023
-+Apellido: Marchetti
-+Nombre: Mauro
-+Legajo : 
+Algoritmos y Estructura de Datos /n
+Curso: K1051 /n
+Cursada: 2023 /n
+Apellido: Marchetti /n
+Nombre: Mauro /n
+Legajo : 
